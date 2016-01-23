@@ -1,0 +1,34 @@
+c:\users\vasic\documents\visual studio 2015\Projects\PomodoroTimer\PomodoroTimer\bin\Debug\PomodoroTimer.exe.config
+c:\users\vasic\documents\visual studio 2015\Projects\PomodoroTimer\PomodoroTimer\bin\Debug\PomodoroTimer.exe
+c:\users\vasic\documents\visual studio 2015\Projects\PomodoroTimer\PomodoroTimer\bin\Debug\PomodoroTimer.pdb
+c:\users\vasic\documents\visual studio 2015\Projects\PomodoroTimer\PomodoroTimer\obj\Debug\PomodoroTimer.csprojResolveAssemblyReference.cache
+c:\users\vasic\documents\visual studio 2015\Projects\PomodoroTimer\PomodoroTimer\obj\Debug\MainWindow.g.cs
+c:\users\vasic\documents\visual studio 2015\Projects\PomodoroTimer\PomodoroTimer\obj\Debug\App.g.cs
+c:\users\vasic\documents\visual studio 2015\Projects\PomodoroTimer\PomodoroTimer\obj\Debug\PomodoroTimer_MarkupCompile.cache
+c:\users\vasic\documents\visual studio 2015\Projects\PomodoroTimer\PomodoroTimer\obj\Debug\PomodoroTimer_MarkupCompile.lref
+c:\users\vasic\documents\visual studio 2015\Projects\PomodoroTimer\PomodoroTimer\obj\Debug\MainWindow.baml
+c:\users\vasic\documents\visual studio 2015\Projects\PomodoroTimer\PomodoroTimer\obj\Debug\PomodoroTimer.g.resources
+c:\users\vasic\documents\visual studio 2015\Projects\PomodoroTimer\PomodoroTimer\obj\Debug\PomodoroTimer.Properties.Resources.resources
+c:\users\vasic\documents\visual studio 2015\Projects\PomodoroTimer\PomodoroTimer\obj\Debug\PomodoroTimer.csproj.GenerateResource.Cache
+c:\users\vasic\documents\visual studio 2015\Projects\PomodoroTimer\PomodoroTimer\obj\Debug\PomodoroTimer.exe
+c:\users\vasic\documents\visual studio 2015\Projects\PomodoroTimer\PomodoroTimer\obj\Debug\PomodoroTimer.pdb
+C:\Users\Vasic\documents\visual studio 2015\Projects\PomodoroTimer\PomodoroTimer\obj\Debug\CircularProgressBar.baml
+C:\Users\Vasic\documents\visual studio 2015\Projects\PomodoroTimer\PomodoroTimer\obj\Debug\CircularProgressBar.g.cs
+C:\Users\Vasic\documents\visual studio 2015\Projects\PomodoroTimer\PomodoroTimer\obj\Debug\mojaKontrola.g.cs
+C:\Users\Vasic\documents\visual studio 2015\Projects\PomodoroTimer\PomodoroTimer\obj\Debug\mojaKontrola.baml
+C:\Users\Vasic\Documents\ProjektniZadaci2016\PomodoroWPF\PomodoroTimer\PomodoroTimer\bin\Debug\PomodoroTimer.exe.config
+C:\Users\Vasic\Documents\ProjektniZadaci2016\PomodoroWPF\PomodoroTimer\PomodoroTimer\obj\Debug\PomodoroTimer.exe
+C:\Users\Vasic\Documents\ProjektniZadaci2016\PomodoroWPF\PomodoroTimer\PomodoroTimer\obj\Debug\PomodoroTimer.pdb
+C:\Users\Vasic\Documents\ProjektniZadaci2016\PomodoroWPF\PomodoroTimer\PomodoroTimer\bin\Debug\PomodoroTimer.exe
+C:\Users\Vasic\Documents\ProjektniZadaci2016\PomodoroWPF\PomodoroTimer\PomodoroTimer\bin\Debug\PomodoroTimer.pdb
+C:\Users\Vasic\Documents\ProjektniZadaci2016\PomodoroWPF\PomodoroTimer\PomodoroTimer\obj\Debug\PomodoroTimer.csprojResolveAssemblyReference.cache
+C:\Users\Vasic\Documents\ProjektniZadaci2016\PomodoroWPF\PomodoroTimer\PomodoroTimer\obj\Debug\MainWindow.g.cs
+C:\Users\Vasic\Documents\ProjektniZadaci2016\PomodoroWPF\PomodoroTimer\PomodoroTimer\obj\Debug\App.g.cs
+C:\Users\Vasic\Documents\ProjektniZadaci2016\PomodoroWPF\PomodoroTimer\PomodoroTimer\obj\Debug\PomodoroTimer_MarkupCompile.cache
+C:\Users\Vasic\Documents\ProjektniZadaci2016\PomodoroWPF\PomodoroTimer\PomodoroTimer\obj\Debug\PomodoroTimer_MarkupCompile.lref
+C:\Users\Vasic\Documents\ProjektniZadaci2016\PomodoroWPF\PomodoroTimer\PomodoroTimer\obj\Debug\MainWindow.baml
+C:\Users\Vasic\Documents\ProjektniZadaci2016\PomodoroWPF\PomodoroTimer\PomodoroTimer\obj\Debug\PomodoroTimer.g.resources
+C:\Users\Vasic\Documents\ProjektniZadaci2016\PomodoroWPF\PomodoroTimer\PomodoroTimer\obj\Debug\PomodoroTimer.Properties.Resources.resources
+C:\Users\Vasic\Documents\ProjektniZadaci2016\PomodoroWPF\PomodoroTimer\PomodoroTimer\obj\Debug\PomodoroTimer.csproj.GenerateResource.Cache
+C:\Users\Vasic\Documents\ProjektniZadaci2016\PomodoroWPF\PomodoroTimer\PomodoroTimer\obj\Debug\App.baml
+C:\Users\Vasic\Documents\ProjektniZadaci2016\PomodoroWPF\PomodoroTimer\PomodoroTimer\obj\Debug\PomodoroTimer_Content.g.cs
